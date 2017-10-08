@@ -22,5 +22,6 @@ pics.ee/cjlee
 [4]: https://9gug.tk/jui/index.html
 [5]: https://www.9gug.tk
 [6]: https://www.9gaga.tk
+[7]: http://tjma4.ml
 
 [90]: http://cjl.twgg.org
