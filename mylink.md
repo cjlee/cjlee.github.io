@@ -12,8 +12,10 @@ pics.ee/cjlee
 - [https://www.9gaga.tk][6] u1604/9gaga.tk
 - [tjma4.ml][7] cjl.000webhost
 
-- [cjl.twgg.org][90] u1604 (cd ns ; node 80nodeserver.js)
+- [ETC Log 2018][8]
 
+- [cjl.twgg.org][90] u1604 (cd ns ; node 80nodeserver.js)
+- [This page][99]
 
 
 [1]: https://tjma4.herokuapp.com/
@@ -23,5 +25,7 @@ pics.ee/cjlee
 [5]: https://www.9gug.tk
 [6]: https://www.9gaga.tk
 [7]: http://tjma4.ml
+[8]: https://docs.google.com/forms/d/e/1FAIpQLScdIW4xjqUirrbZsCb4joUYrCayetxO4RIznLX9b4w-rZZTkg/viewform?c=0&w=1&usp=mail_form_link
 
 [90]: http://cjl.twgg.org
+[99]: https://github.com/cjlee/cjlee.github.io/edit/master/mylink.md
