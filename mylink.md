@@ -6,6 +6,8 @@ pics.ee/cjlee
 - [體重記錄][4]
 - [練功記錄][5]
 
+- [登山精選][19]
+
 
 
 ----
@@ -32,6 +34,7 @@ pics.ee/cjlee
 [16]: https://www.9gaga.tk
 [17]: http://tjma4.ml
 [18]: https://docs.google.com/forms/d/e/1FAIpQLScdIW4xjqUirrbZsCb4joUYrCayetxO4RIznLX9b4w-rZZTkg/viewform?c=0&w=1&usp=mail_form_link
+[19]: https://photos.app.goo.gl/qpBP2rF7PLHg1x9t6
 
 [90]: http://cjl.twgg.org
 [99]: https://github.com/cjlee/cjlee.github.io/edit/master/mylink.md
